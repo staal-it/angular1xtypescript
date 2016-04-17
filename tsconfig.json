@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6"
+    },
+    "files": [
+        "app/app.ts",
+        "app\\Swapi\\SwapiController.ts",
+        "app\\Swapi\\SwapiService.ts"
+    ]
+}

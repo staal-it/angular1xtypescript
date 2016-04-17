@@ -1,0 +1,9 @@
+/// <reference path="../typings/tsd.d.ts" />
+var AngularTypescript;
+(function (AngularTypescript) {
+    "use strict";
+    angular
+        .module("AngularTypescript", ["ngRoute"]);
+})(AngularTypescript || (AngularTypescript = {}));
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSw0Q0FBNEM7QUFFNUMsSUFBTyxpQkFBaUIsQ0FPdkI7QUFQRCxXQUFPLGlCQUFpQixFQUFBLENBQUM7SUFDckIsWUFBWSxDQUFDO0lBRWIsT0FBTztTQUNGLE1BQU0sQ0FBQyxtQkFBbUIsRUFBRSxDQUFDLFNBQVMsQ0FBQyxDQUFDLENBQUM7QUFHbEQsQ0FBQyxFQVBNLGlCQUFpQixLQUFqQixpQkFBaUIsUUFPdkIiLCJmaWxlIjoiYXBwLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLy8vIDxyZWZlcmVuY2UgcGF0aD1cIi4uL3R5cGluZ3MvdHNkLmQudHNcIiAvPlxyXG5cclxubW9kdWxlIEFuZ3VsYXJUeXBlc2NyaXB0e1xyXG4gICAgXCJ1c2Ugc3RyaWN0XCI7XHRcclxuXHJcbiAgICBhbmd1bGFyXHJcbiAgICAgICAgLm1vZHVsZShcIkFuZ3VsYXJUeXBlc2NyaXB0XCIsIFtcIm5nUm91dGVcIl0pO1xyXG4gICAgICAgIFxyXG4gICAgICAgIFxyXG59Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
